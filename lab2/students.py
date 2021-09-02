@@ -21,3 +21,5 @@ def main(): # store data in Student class using main method
 
 if __name__ == '__main__':
     main() # Call main method to store in the Student Class
+
+# I had already finished part 3
