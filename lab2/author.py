@@ -21,7 +21,7 @@ class Author:
          # If list contains books, join the books together, and assign to list.
         if len(self.books) > 0:
             book_list = ', '.join(self.books)
-        else: # if not, assign this valie instead
+        else: # if not, assign this value instead
             book_list = 'No books.'
         # or
         # book_list = ', '.join(self.books) or 'No books.' 
